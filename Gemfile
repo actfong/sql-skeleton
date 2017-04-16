@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'pg'
-gem 'rerun'
+gem 'shotgun'
 gem 'sinatra'
 gem 'sqlite3'
 gem 'pry'
